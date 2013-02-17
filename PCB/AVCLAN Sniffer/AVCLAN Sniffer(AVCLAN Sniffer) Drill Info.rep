@@ -1,0 +1,27 @@
+ULTIBOARD DRILL REPORT
+
+Design: AVCLAN Sniffer(AVCLAN Sniffer) 
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.5 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                                     LAMINATION
+AVCLAN Sniffer(AVCLAN Sniffer) Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL	SIZE		COUNT
+1	0.15748		1
+2	0.02362		3
+3	0.03500		83
+4	0.03917		5
+5	0.04667		3
+6	0.03937		28
+7	0.03333		1
+8	0.11833		2
